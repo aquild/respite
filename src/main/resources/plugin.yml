@@ -1,0 +1,6 @@
+name: Respite
+version: ${project.version}
+main: dev.aquild.respite.Respite
+api-version: 1.13
+authors: [Aquild]
+description: Plugin for interacting with Spigot servers from the wider web using a REST API.
